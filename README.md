@@ -5,9 +5,7 @@
  <a href="mailto:sumitmukharjeeeeee@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://twitter.com/SumitMukharjii">
-  <img src="https://img.shields.io/twitter/url?style=social"/>
-</a>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=for-the-badge">
 
 <br> <br>
 ### :mortar_board:I am currently a bachelor student pursuing Computer Science.<br/>
