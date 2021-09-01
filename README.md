@@ -1,4 +1,7 @@
 # Hello, there I am Sumit!!! 👋
+
+Find Me On.. 
+
 <a href="https://www.linkedin.com/in/sumit-mukharjee-8870691a7/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a>
@@ -9,13 +12,20 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
 <br> <br>
+
+## About Me:
+
 ### :mortar_board:I am currently a bachelor student pursuing Computer Science.<br/>
 ### :sparkler:Love to build and learn new things.
 
+
 ## :zap:Powers
-### Languages⚡
+### Languages I Know: ⚡
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-### Stakcs:rocket:
+
+### Stacks :rocket:
+
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=whiteen" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 ## Certification 🎓
