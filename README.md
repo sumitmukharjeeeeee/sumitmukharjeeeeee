@@ -23,6 +23,6 @@
   
   [![Sumit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumitmukharjeeeeee&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumitmukharjeeeeee)](https://github.com/anuraghazra/github-readme-stats)
+  [![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumitmukharjeeeeee)](https://github.com/anuraghazra/github-readme-stats)
 
 
