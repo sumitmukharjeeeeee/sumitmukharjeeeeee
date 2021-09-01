@@ -20,3 +20,6 @@
 
 ## Certification 🎓
   <b>[Hackerrank CSS](https://www.hackerrank.com/certificates/7053c95d51c6) </b>
+  
+  [![Sumit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumitmukharjeeeeee)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
