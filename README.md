@@ -1,4 +1,4 @@
-# Hello, there I am Sumit!!! 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Sumit+Mukharjee's+Github+Profile..)](https://git.io/typing-svg) 👋
 
 Find Me On.. 
 
@@ -12,6 +12,12 @@ Find Me On..
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
 <br> <br>
+<br> <br>
+<p align="center">
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sumit Mukharjee </h1>
+<br>
 
 ## About Me:
 
@@ -33,4 +39,13 @@ Find Me On..
   
   [![Sumit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumitmukharjeeeeee&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  [![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumitmukharjeeeeee)](https://github.com/anuraghazra/github-readme-stats)
+ <h1 align="center">Github Stats</h1>
+ <div align="center" >
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=sumitmukharjeeeeee&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmukharjeeeeee&layout=compact">
+  </div>
+  
+  
+  ***
+ <p align="center">
+  <i>Let's connect and chat! Open to anything under the sun thank you.</i>
+
