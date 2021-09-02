@@ -39,9 +39,10 @@ Find Me On..
   
   [![Sumit's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumitmukharjeeeeee&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
- <h1 align="center">Github Stats</h1>
+ <h1 align="center"></h1>
  <div align="center" >
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=sumitmukharjeeeeee&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmukharjeeeeee&layout=compact">
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitmukharjeeeeee&theme=radical&show_icons=true)
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmukharjeeeeee&layout=compact">
   </div>
   
   
