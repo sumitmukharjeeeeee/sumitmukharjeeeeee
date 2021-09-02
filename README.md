@@ -43,9 +43,7 @@ Find Me On..
   
  <h1 align="center">Sumit's Github Stats</h1>
  <div align="center" >
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=sumitmukharjeeeeee&theme=synthwave&show_icons=true">  [![Sumit's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumitmukharjeeeeee)](https://github.com/anuraghazra/github-readme-stats)
- 
-  //<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmukharjeeeeee&layout=compact">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=sumitmukharjeeeeee&theme=synthwave&show_icons=true">  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmukharjeeeeee&layout=compact">
   </div>
   
   
