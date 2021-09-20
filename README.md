@@ -39,7 +39,7 @@ Find Me On...
   <br>
   <br>
   <br>
-  [![Sumit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sumitmukharjeeeeee&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Sumit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sumitmukharjeeeeee&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <h1 align="center">Sumit's GitHub Stats</h1>
  <div align="center" >
